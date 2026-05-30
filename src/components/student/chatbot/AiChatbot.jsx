@@ -2,7 +2,7 @@ import React, { useState } from "react";
 import Chatbot from "react-chatbot-kit";
 import "react-chatbot-kit/build/main.css";
 import config from "../../chatbot/Config";
-import MessageParser from "../../chatbot/MessageParser";
+import MessageParser from "../../chatbot/tempParser";
 import ActionProvider from "../../chatbot/ActionProvider";
 
 
